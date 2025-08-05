@@ -1,6 +1,6 @@
 {
-	"name": "@luna/template",
-	"description": "Template repo for making your own luna plugins",
+	"name": "@luna-nights/plugins",
+	"description": "Xaiya's Repo for my own cool little plugins",
 	"type": "module",
 	"scripts": {
 		"watch": "concurrently \"pnpm:build --watch\" pnpm:serve",

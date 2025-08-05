@@ -1,0 +1,11 @@
+{
+	"name": "@luna-nights/skipSpace",
+	"description": "Skip whitespace in between songs!",
+	"author": {
+		"name": "Xaiya",
+		"url": "https://github.com/Xaiyadev",
+		"avatarUrl": "https://2.gravatar.com/avatar/27b5da3867b51e4b59d3408e24e8a469298457687d7bc5c361df872508a1d09a"
+	},
+	"main": "./src/index.ts",
+	"type": "module"
+}
